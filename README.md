@@ -2,7 +2,7 @@
 <h3 align="center">Just a tech.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saivishnu725&label=Profile%20views&color=0e75b6&style=flat" alt="Commits of 2020" /> </p>
-<p>&nbsp;<img align="center" src="https://github.com/saivishnu725/saivishnu725/blob/master/assets/saivishnu725_2020_github_review.png" alt="saivishnu725" />
+<p>&nbsp;<img align="center" src="https://github.com/saivishnu725/saivishnu725/blob/master/saivishnu725_2020_github_review.png" alt="saivishnu725" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saivishnu725" alt="saivishnu725" /></a> </p>
 
