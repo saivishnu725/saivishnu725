@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on [Attendance](www.github.com/saivishnu725/attendance)
 
-- 👨‍💻 All of my projects are available at [sai-vishnu.tk](sai-vishnu.tk)
+- 👨‍💻 All of my projects are available at [sai-vishnu.tk](https://sai-vishnu.tk)
 
 - 💬 Ask me about **flutter,dart,java,c++**
 
