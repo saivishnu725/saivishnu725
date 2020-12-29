@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [FlutterResources](www.github.com/saivishnu725/flutterresources)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning [**Flutter**](https://flutter.dev).
 
 - 👯 I’m looking to collaborate on [Attendance](www.github.com/saivishnu725/attendance)
 
