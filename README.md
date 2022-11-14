@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/saivish01917837" target="blank"><img src="https://img.shields.io/twitter/follow/saivish01917837?logo=twitter&style=for-the-badge" alt="saivish01917837" /></a> </p>
 
-- 🌱 I’m currently learning [**Flutter**](https://flutter.dev).
+- 🌱 I’m currently learning **The Three Web Bois(HTML, CSS, JS)**.
 
 <!-- - 👯 I’m looking to collaborate on [Attendance](www.github.com/saivishnu725/attendance) -->
 
-- 👨‍💻 All of my projects are available at [sai-vishnu.tk](https://sai-vishnu.tk)
+- 👨‍💻 All of my projects are available at [saivishnu725.tk](https://www.saivishnu725.tk/)
 
 <!-- - 💬 Ask me about **flutter,dart,java,c++** -->
 
@@ -25,12 +25,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/saivishnu725" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="saivishnu725" height="30" width="40" /></a>
-<a href="https://twitter.com/saivish01917837" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="saivish01917837" height="30" width="40" /></a>
+<a href="https://twitter.com/saivishnu725" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="saivish01917837" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sai-vishnu-061366194" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sai-vishnu-061366194" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11940078" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11940078" height="30" width="40" /></a>
 <a href="https://instagram.com/_sai.vishnu_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_sai.vishnu_" height="30" width="40" /></a>
 <a href="https://medium.com/@saivishnu725" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@saivishnu725" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sai vishnu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="sai vishnu" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@saivishnu725" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="sai vishnu" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
 
