@@ -8,7 +8,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saivishnu725&theme=monokai)
 
-<p align="left"> <a href="https://twitter.com/saivishnu725" target="blank"><img src="https://img.shields.io/twitter/follow/saivish01917837?logo=twitter&style=for-the-badge" alt="saivishnu725" /></a> </p>
+<p align="left"> <a href="https://twitter.com/saivishnu725" target="blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fsaivishnu725??style=for-the-badge&logo=twitter" alt="saivishnu725" /></a> </p>
+
 
 - 🌱 I’m currently learning **The Three Web Bois(HTML, CSS, JS)**.
 
