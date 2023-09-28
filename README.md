@@ -11,11 +11,11 @@
 <p align="left"> <a href="https://twitter.com/saivishnu725" target="blank"><img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fsaivishnu725??style=for-the-badge&logo=twitter" alt="saivishnu725" /></a> </p>
 
 
-- 🌱 I’m currently learning **The Three Web Bois(HTML, CSS, JS)**.
+- 🌱 I’m currently trying to build an interpreter by following the craftinginterpreters.com book.
 
 <!-- - 👯 I’m looking to collaborate on [Attendance](www.github.com/saivishnu725/attendance) -->
 
-- 👨‍💻 All of my projects are available at [saivishnu725.tk](https://www.saivishnu725.tk/)
+<!-- - 👨‍💻 All of my projects are available at [saivishnu725.tk](https://www.saivishnu725.tk/) -->
 
 <!-- - 💬 Ask me about **flutter,dart,java,c++** -->
 
